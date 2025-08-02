@@ -1,4 +1,4 @@
-Nombre: Carlos Quintanilla
-Carné: [Agregar tu número de carné aquí]
+Nombre: Carlos Quiñonez
+Carné: 5190-19-22804
 Proyecto: Página de presentación personal estática - ULTRAMEDIC
 Repositorio GitHub: https://github.com/Carlosq200/mi-presentacion-ultramedic
